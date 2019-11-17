@@ -1,1 +1,2 @@
-print(dsjfj)
+print()
+ban
